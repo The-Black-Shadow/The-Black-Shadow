@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The-Black-Shadow
-- 👀 I’m interested in JavaAcript!
+- 👀 I’m interested in JavaScript!
 - 🌱 I’m currently learning ReactJS<!-- - 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ... Gmail : mehedihasan.cse18@gmail.com
 
