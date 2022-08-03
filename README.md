@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The-Black-Shadow
-- 👀 I’m interested in Java!
+- 👀 I’m interested in Kotlin!
 - 🌱 I’m currently learning Software Developing<!-- - 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ... Gmail : mehedihasan.cse18@gmail.com
 
