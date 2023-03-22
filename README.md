@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Black-Shadow
-- 👀 I’m interested in Kotlin!
-- 🌱 I’m currently learning Software Developing<!-- - 💞️ I’m looking to collaborate on ...-->
+- 👀 I’m interested in C#!
+- 🌱 I’m currently learning 2D Game Developing<!-- - 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ... Gmail : mehedihasan.cse18@gmail.com
 
 <!---
