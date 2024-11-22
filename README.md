@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @The-Black-Shadow
+<h1 align="center">✩°｡⋆ Hi, I’m Md Mehedi Hasan ⋆｡°✩</h1>
+
 - 👀 I’m interested in Android app development !
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working with Flutter
 - 💞️ I’m looking to collaborate on Android Flutter Project.
 - 📫 How to reach me ... Gmail : mehedihasan.cse18@gmail.com
 
-<!---
-The-Black-Shadow/The-Black-Shadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,cpp,firebase,github,git,postman,figma,vscode,androidstudio&perline=9)
+
+#### Operating System
+
+![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,mint,arch&perline=5)
+
+#### Flutter Projects
+
+1.  ##### Age Calc : https://github.com/The-Black-Shadow/agecalculator
+    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.agecalc
+    - The app is made with basic FLutter
+    - Features:
+      - Age Calculate
+      - Date Calculate
+      - Age Comparison
+      - Leap Year Finder
+      - Save Favorite Persons Birthday
+        - See his/her todays age
+        - See the upcoming remaings days of his birthday
+2.  ##### Learn to Draw Alphabet :
+
+    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.learn_to_draw_alphabet
+
+    - The app is made with basic flutter and custom paint specially for kids.
+    - Features
+      - Can learn to draw capital hand and small hand english alphabet
+
+3.  ##### Counter App : https://github.com/The-Black-Shadow/counter_app
+    - This is a basic Flutter counter app made with BLOC.
+    - Features:
+      - Increment Number
+      - Decrement Number
