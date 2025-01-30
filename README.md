@@ -39,3 +39,9 @@
     - Features:
       - Increment Number
       - Decrement Number
+4. #### Simple Note : https://github.com/The-Black-Shadow/simple_note.git
+    - This is a basic note app using shared preferences and BLOC
+    - Features:
+      - Add note
+      - Delete note
+      - Clear all note
