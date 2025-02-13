@@ -51,4 +51,4 @@
      - Add money(Income or Expense both with source name)
      - Show the transaction history with date
      - Display total remaining money
-6. #### Money Tracer pro : (coming soon in play store.....)
+6. #### Money Tracker pro : (coming soon in play store.....)
