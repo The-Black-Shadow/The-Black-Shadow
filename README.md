@@ -45,9 +45,10 @@
       - Add note
       - Delete note
       - Clear all note
-5. #### Money Tracer : https://github.com/The-Black-Shadow/money_tracker
+5. #### Money Tracker : https://github.com/The-Black-Shadow/money_tracker
    - This is a basic expense tracker app using sqflite and BLOC
    - Features:
      - Add money(Income or Expense both with source name)
      - Show the transaction history with date
      - Display total remaining money
+6. #### Money Tracer pro : (coming soon in play store.....)
