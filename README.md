@@ -51,4 +51,19 @@
      - Add money(Income or Expense both with source name)
      - Show the transaction history with date
      - Display total remaining money
-6. #### Money Tracker pro : (coming soon in play store.....)
+6. #### Expengo : 
+    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.expengo
+   - This app is made with Flutter using
+           - BLOC: for state management
+           - sqflite: for offline storage
+           - fl_chart: for graph view
+   - Features:
+     - Add money(Income or Expense both with source name)
+     - Show the transaction history with date
+     - Display total remaining money
+     - Display income and expense in graph
+
+7. #### Stripe Payment using Flutter : https://github.com/The-Black-Shadow/flutter_stripe_payment
+   - Features:
+     - Take amount in textfield
+     - Show payment success or cancel in UI
