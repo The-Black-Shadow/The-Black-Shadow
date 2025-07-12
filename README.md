@@ -67,3 +67,8 @@
    - Features:
      - Take amount in textfield
      - Show payment success or cancel in UI
+
+8. #### Photo Encryption using AES-256 : https://github.com/The-Black-Shadow/photosafepro
+    - Features :
+      - User can login via pin or fingerprint(if available)
+      - User can upload their photo to vault and delete orginal photo from user gallery
