@@ -72,3 +72,6 @@
     - Features :
       - User can login via pin or fingerprint(if available)
       - User can upload their photo to vault and delete orginal photo from user gallery
+
+9. ### CryptoX : https://github.com/The-Black-Shadow/cryptox
+    - CryptoX is a mobile financial platform built with Flutter and Firebase that redefines digital asset security through a unique, traceable "Digital Note" system.
