@@ -11,7 +11,7 @@
 
 #### Operating System
 
-![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,mint,arch&perline=5)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,mint,arch&perline=5)
 
 #### Flutter Projects
 
