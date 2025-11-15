@@ -75,3 +75,18 @@
 
 9. ### CryptoX : https://github.com/The-Black-Shadow/cryptox
     - CryptoX is a mobile financial platform built with Flutter and Firebase that redefines digital asset security through a unique, traceable "Digital Note" system.
+  
+10. ### ZegoCloud Video Call Starter : https://github.com/The-Black-Shadow/zegocloud_video_call
+
+A professional Flutter starter template for building video and audio calling applications using ZegoCloud's UIKit. This project provides a complete implementation of one-on-one and group calling features with offline call invitation support, making it easy to integrate real-time communication into your Flutter apps.
+
+## 🌟 Features
+
+- ✅ **One-on-One Video/Audio Calls** - Crystal clear video and audio calling
+- ✅ **Group Video/Audio Calls** - Support for multiple participants
+- ✅ **Offline Call Invitations** - Receive call notifications even when app is closed
+- ✅ **Call Minimization** - Continue using other features while on a call
+- ✅ **Custom Avatars** - Personalized user experience
+- ✅ **Environment Variables** - Secure credential management with `.env` file
+- ✅ **Android & iOS Support** - Full cross-platform compatibility
+- ✅ **Production Ready** - Clean architecture and professional code structure
