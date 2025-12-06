@@ -1,92 +1,96 @@
-<h1 align="center">✩°｡⋆ Hi, I’m Md Mehedi Hasan ⋆｡°✩</h1>
+<div align="center">
 
-- 👀 I’m interested in Android app development !
-- 🌱 I’m currently working with Flutter
-- 💞️ I’m looking to collaborate on Android Flutter Project.
-- 📫 How to reach me ... Gmail : mdmehedihasanbd111@gmail.com
+# Md Mehedi Hasan
 
-#### Languages and Tools
+### Mobile Application Developer | Flutter Specialist
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,cpp,firebase,github,git,postman,figma,vscode,androidstudio&perline=9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-black-shadow.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-black-shadow/)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=TShadow)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmehedihasanbd111@gmail.com)
 
-#### Operating System
+</div>
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,mint,arch&perline=9)
+---
 
-#### Flutter Projects
+## 👨‍💻 About Me
 
-1.  ##### Age Calc : https://github.com/The-Black-Shadow/agecalculator
-    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.agecalc
-    - The app is made with basic FLutter
-    - Features:
-      - Age Calculate
-      - Date Calculate
-      - Age Comparison
-      - Leap Year Finder
-      - Save Favorite Persons Birthday
-        - See his/her todays age
-        - See the upcoming remaings days of his birthday
-2.  ##### Learn to Draw Alphabet :
+I'm a passionate **Mobile Application Developer** specializing in **Flutter** and cross-platform development. With a focus on creating elegant, performant, and user-centric applications, I strive to deliver exceptional mobile experiences.
 
-    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.learn_to_draw_alphabet
+- 🚀 Building production-ready mobile applications with **Flutter**
+- 🔥 Experienced with **Firebase**, **REST APIs**, and **state management** (BLoC)
+- 📱 Published apps on **Google Play Store** with thousands of downloads
+- 🎯 Focused on clean architecture and maintainable code
 
-    - The app is made with basic flutter and custom paint specially for kids.
-    - Features
-      - Can learn to draw capital hand and small hand english alphabet
+---
 
-3.  ##### Counter App : https://github.com/The-Black-Shadow/counter_app
-    - This is a basic Flutter counter app made with BLOC.
-    - Features:
-      - Increment Number
-      - Decrement Number
-4. #### Simple Note : https://github.com/The-Black-Shadow/simple_note.git
-    - This is a basic note app using shared preferences and BLOC
-    - Features:
-      - Add note
-      - Delete note
-      - Clear all note
-5. #### Money Tracker : https://github.com/The-Black-Shadow/money_tracker
-   - This is a basic expense tracker app using sqflite and BLOC
-   - Features:
-     - Add money(Income or Expense both with source name)
-     - Show the transaction history with date
-     - Display total remaining money
-6. #### Expengo : 
-    ###### Playstore : https://play.google.com/store/apps/details?id=com.tshadow.expengo
-   - This app is made with Flutter using
-           - BLOC: for state management
-           - sqflite: for offline storage
-           - fl_chart: for graph view
-   - Features:
-     - Add money(Income or Expense both with source name)
-     - Show the transaction history with date
-     - Display total remaining money
-     - Display income and expense in graph
+## 🛠️ Tech Stack
 
-7. #### Stripe Payment using Flutter : https://github.com/The-Black-Shadow/flutter_stripe_payment
-   - Features:
-     - Take amount in textfield
-     - Show payment success or cancel in UI
+<div align="center">
 
-8. #### Photo Encryption using AES-256 : https://github.com/The-Black-Shadow/photosafepro
-    - Features :
-      - User can login via pin or fingerprint(if available)
-      - User can upload their photo to vault and delete orginal photo from user gallery
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-9. ### CryptoX : https://github.com/The-Black-Shadow/cryptox
-    - CryptoX is a mobile financial platform built with Flutter and Firebase that redefines digital asset security through a unique, traceable "Digital Note" system.
-  
-10. ### ZegoCloud Video Call Starter : https://github.com/The-Black-Shadow/zegocloud_video_call
+### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-A professional Flutter starter template for building video and audio calling applications using ZegoCloud's UIKit. This project provides a complete implementation of one-on-one and group calling features with offline call invitation support, making it easy to integrate real-time communication into your Flutter apps.
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-## 🌟 Features
+</div>
 
-- ✅ **One-on-One Video/Audio Calls** - Crystal clear video and audio calling
-- ✅ **Group Video/Audio Calls** - Support for multiple participants
-- ✅ **Offline Call Invitations** - Receive call notifications even when app is closed
-- ✅ **Call Minimization** - Continue using other features while on a call
-- ✅ **Custom Avatars** - Personalized user experience
-- ✅ **Environment Variables** - Secure credential management with `.env` file
-- ✅ **Android & iOS Support** - Full cross-platform compatibility
-- ✅ **Production Ready** - Clean architecture and professional code structure
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Black-Shadow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Black-Shadow&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Black-Shadow&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Black-Shadow&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## � GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=The-Black-Shadow&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=The-Black-Shadow&color=blueviolet&style=for-the-badge)
+
+**💬 Let's connect and build something amazing together!**
+
+</div>
