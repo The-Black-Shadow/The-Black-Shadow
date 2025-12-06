@@ -19,7 +19,7 @@ I'm a passionate **Mobile Application Developer** specializing in **Flutter** an
 
 - 🚀 Building production-ready mobile applications with **Flutter**
 - 🔥 Experienced with **Firebase**, **REST APIs**, and **state management** (BLoC)
-- 📱 Published apps on **Google Play Store** with thousands of downloads
+- 📱 Published apps on **Google Play Store**
 - 🎯 Focused on clean architecture and maintainable code
 
 ---
@@ -57,11 +57,15 @@ I'm a passionate **Mobile Application Developer** specializing in **Flutter** an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Black-Shadow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/The-Black-Shadow">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-Black-Shadow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/The-Black-Shadow">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-Black-Shadow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Black-Shadow&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Black-Shadow&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
