@@ -2,7 +2,7 @@
 
 # Md Mehedi Hasan
 
-### Mobile Application Developer | Flutter Specialist
+### Cross-Platform Mobile Application Developer | Flutter Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdmehedihasan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md--mehedi-hasan/)
@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Mobile Application Developer** specializing in **Flutter** and cross-platform development. With a focus on creating elegant, performant, and user-centric applications, I strive to deliver exceptional mobile experiences.
+I'm a passionate **Cross-Platform Mobile Application Developer** specializing in **Flutter** and cross-platform development. With a focus on creating elegant, performant, and user-centric applications, I strive to deliver exceptional mobile experiences.
 
 - 🚀 Building production-ready mobile applications with **Flutter**
-- 🔥 Experienced with **Firebase**, **REST APIs**, and **state management** (BLoC)
-- 📱 Published apps on **Google Play Store**
+- 🔥 Experienced with **Firebase**, **REST APIs**, and **state management** (BLoC, getX)
+- 📱 Published apps on **Google Play Store & Apple Store**
 - 🎯 Focused on clean architecture and maintainable code
 
 ---
